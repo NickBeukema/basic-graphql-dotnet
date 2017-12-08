@@ -1,0 +1,9 @@
+/Users/nbeukema/Documents/workspace/sandbox/graphql/TestGraph/api/bin/Debug/netcoreapp1.1/api.deps.json
+/Users/nbeukema/Documents/workspace/sandbox/graphql/TestGraph/api/bin/Debug/netcoreapp1.1/api.runtimeconfig.json
+/Users/nbeukema/Documents/workspace/sandbox/graphql/TestGraph/api/bin/Debug/netcoreapp1.1/api.runtimeconfig.dev.json
+/Users/nbeukema/Documents/workspace/sandbox/graphql/TestGraph/api/obj/Debug/netcoreapp1.1/api.csproj.CoreCompileInputs.cache
+/Users/nbeukema/Documents/workspace/sandbox/graphql/TestGraph/api/obj/Debug/netcoreapp1.1/api.AssemblyInfo.cs
+/Users/nbeukema/Documents/workspace/sandbox/graphql/TestGraph/api/bin/Debug/netcoreapp1.1/api.dll
+/Users/nbeukema/Documents/workspace/sandbox/graphql/TestGraph/api/bin/Debug/netcoreapp1.1/api.pdb
+/Users/nbeukema/Documents/workspace/sandbox/graphql/TestGraph/api/obj/Debug/netcoreapp1.1/api.dll
+/Users/nbeukema/Documents/workspace/sandbox/graphql/TestGraph/api/obj/Debug/netcoreapp1.1/api.pdb
